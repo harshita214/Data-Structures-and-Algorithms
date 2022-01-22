@@ -1,1 +1,7 @@
 ### All types of Linked List questons
+
+| Problem | Topic | Question link | Solution | Level |  
+| --- | --- | --- | --- |  --- |  
+| Merge Two Sorted Lists | Linked List, Recursion | [link](https://leetcode.com/problems/merge-two-sorted-lists/) | [link](https://github.com/harshita214/Data-Structures-and-Algorithms/blob/main/Linked%20List/mergesortedlist.cpp) | LeetCode - Easy |
+|  Linked List Cycle II |  Linked List, Two Pointers | [link](https://leetcode.com/problems/linked-list-cycle-ii/) | [link](https://github.com/harshita214/Data-Structures-and-Algorithms/blob/main/Linked%20List/cycle2.cpp) | LeetCode - Medium |
+| Add | Linked List | [link](https://www.hackerrank.com/challenges/30-linked-list/problem?isFullScreen=true) | [link](https://github.com/harshita214/Data-Structures-and-Algorithms/blob/main/Linked%20List/add.cpp) | HackerRank - Easy |
