@@ -9,5 +9,7 @@
 | Can Place Flowers | Array , Greedy | [link](https://leetcode.com/problems/can-place-flowers/) | [link](https://github.com/harshita214/Data-Structures-and-Algorithms/blob/main/Array/adjacent.cpp) | LeetCode - Easy |
 | Remove Duplicates from Sorted Array | Array |[link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [link](https://github.com/harshita214/Data-Structures-and-Algorithms/blob/main/Array/removeduplicate.cpp) | LeetCode - Easy |
 | Pascal's Triangle | Array, DP |[link](https://leetcode.com/problems/pascals-triangle/) | [link](https://github.com/harshita214/Data-Structures-and-Algorithms/blob/main/Array/pascal.cpp) | LeetCode - Easy |
+| Remove Element | Array, Pointers |[link](https://leetcode.com/problems/remove-element/) | [link](https://github.com/harshita214/Data-Structures-and-Algorithms/blob/main/Array/remove-element.cpp) | LeetCode - Easy |
+
 
 
