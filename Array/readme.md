@@ -12,6 +12,8 @@
 | Remove Element | Array, Pointers |[link](https://leetcode.com/problems/remove-element/) | [link](https://github.com/harshita214/Data-Structures-and-Algorithms/blob/main/Array/remove-element.cpp) | LeetCode - Easy |
 | Rotate Array | Array, 2 Pointers |[link](https://leetcode.com/problems/rotate-array/) | [link](https://github.com/harshita214/Data-Structures-and-Algorithms/blob/main/Array/rotatearray.cpp) | LeetCode - Medium |
 | Maximum Subarray | Array, DP, Divide & conquer |[link](https://leetcode.com/problems/maximum-subarray/) | [link](https://github.com/harshita214/Data-Structures-and-Algorithms/blob/main/Array/maxsubarray.cpp) | LeetCode - Easy |
+| Merge Sorted Array | Array, Sorting |[link](https://leetcode.com/problems/merge-sorted-array/) | [link](https://github.com/harshita214/Data-Structures-and-Algorithms/blob/main/Array/mergesortedarray.cpp) | LeetCode - Easy |
+
 
 
 
