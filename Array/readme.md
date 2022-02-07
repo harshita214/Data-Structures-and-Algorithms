@@ -13,6 +13,7 @@
 | Rotate Array | Array, 2 Pointers |[link](https://leetcode.com/problems/rotate-array/) | [link](https://github.com/harshita214/Data-Structures-and-Algorithms/blob/main/Array/rotatearray.cpp) | LeetCode - Medium |
 | Maximum Subarray | Array, DP, Divide & conquer |[link](https://leetcode.com/problems/maximum-subarray/) | [link](https://github.com/harshita214/Data-Structures-and-Algorithms/blob/main/Array/maxsubarray.cpp) | LeetCode - Easy |
 | Merge Sorted Array | Array, Sorting |[link](https://leetcode.com/problems/merge-sorted-array/) | [link](https://github.com/harshita214/Data-Structures-and-Algorithms/blob/main/Array/mergesortedarray.cpp) | LeetCode - Easy |
+| Single Number | Array, Bit Manipulation |[link](https://leetcode.com/problems/single-number/) | [link](https://github.com/harshita214/Data-Structures-and-Algorithms/blob/main/Array/singlenumber.cpp) | LeetCode - Easy |
 
 
 
