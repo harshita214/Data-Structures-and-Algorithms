@@ -20,7 +20,7 @@ public:
                             break;
                     if(j==nums.size())
                     return ans;
-                    j++;                  
+                    j--;                  
                 }
                 i++;
                 while(i<j and nums[i]==nums[i-1])
