@@ -8,3 +8,8 @@
 | Convert Sorted Array to Binary Search Tree | Tree, BST | [link](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [link](https://github.com/harshita214/Data-Structures-and-Algorithms/blob/main/BST/arraytoBST.cpp) | LeetCode - Easy |
 | Binary Tree Preorder Traversal | Tree, BST , Stack, DFS| [link](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [link](https://github.com/harshita214/Data-Structures-and-Algorithms/blob/main/BST/preordertraversal.cpp) | LeetCode - Easy |
 | Binary Tree Postorder Traversal | Tree, BST, Stack, DFS | [link](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [link](https://github.com/harshita214/Data-Structures-and-Algorithms/blob/main/BST/postordertraversal.cpp) | LeetCode - Easy |
+| Invert Binary Tree | Tree, BFS, Binary Tree, DFS | [link](https://leetcode.com/problems/invert-binary-tree/) | [link](https://github.com/harshita214/Data-Structures-and-Algorithms/blob/main/BST/invertbinarytree.cpp) | LeetCode - Easy |
+
+
+
+
