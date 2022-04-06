@@ -16,6 +16,9 @@
 | Single Number | Array, Bit Manipulation |[link](https://leetcode.com/problems/single-number/) | [link](https://github.com/harshita214/Data-Structures-and-Algorithms/blob/main/Array/singlenumber.cpp) | LeetCode - Easy |
 | K-diff pairs in an array | Array, Bit Manipulation |[link](https://leetcode.com/problems/k-diff-pairs-in-an-array) | [link](https://github.com/harshita214/Data-Structures-and-Algorithms/blob/main/Array/differentpairinarray.cpp) | LeetCode - Easy |
 | Subsets | Array, Bit Manipulation |[link](https://leetcode.com/problems/subsets/) | [link](https://github.com/harshita214/Data-Structures-and-Algorithms/blob/main/Array/subset.cpp) | LeetCode - Medium |
+| 3Sum With Multiplicity | Array, Sorting |[link](https://leetcode.com/problems/3sum-with-multiplicity/) | [link](https://github.com/harshita214/Data-Structures-and-Algorithms/blob/main/Array/3SumWithMultiplicity.cpp) | LeetCode - Medium |
+
+
 
 
 
